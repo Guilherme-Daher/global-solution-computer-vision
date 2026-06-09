@@ -1,5 +1,0 @@
-Olá professor!
-
-Segue o link do Youtube contendo o vídeo da Global Solution.
-
-Link: https://github.com/Guilherme-Daher/global-solution-computer-vision.git
