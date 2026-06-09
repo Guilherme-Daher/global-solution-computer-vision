@@ -69,6 +69,7 @@ Este módulo é a **camada de percepção** do sistema integrado. Imagens dos sa
 | 🌐 **Site SkyGuard** | [skyguard.azurewebsites.net](https://gs-1sem-dqfxbqehdkbgf9ed.brazilsouth-01.azurewebsites.net) |
 | 🤖 **Demo Gradio (Hugging Face)** | [daherzinho/skyguard-satellite-classifier](https://huggingface.co/spaces/daherzinho/skyguard-satellite-classifier) |
 | 📓 **Notebook no Colab** | [Abrir no Colab](https://colab.research.google.com/drive/1TLQqS6jcnlhnqnDScpX2ubWenVAQb8Tg) |
+| 📓 **Video Youtube** | [Youtube](https://youtu.be/6Wt4rDOFkyU) |
 
 ---
 
